@@ -86,6 +86,10 @@ section {
     border: 1px solid rgba(0, 0, 0, .5);
 }
 
+.masonry-grid-item {
+    border: 1px solid #333 !important;
+}
+
 .u-go-to-v1 {
     background-color: rgba(0, 147, 221, 0.5);
     color: #f0f0f0;
